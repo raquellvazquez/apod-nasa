@@ -17,4 +17,9 @@ Este proyecto consta de la creación de una aplicación que muestra la imagen de
     <br>
 </div>
 
+### Tecnologias utilizadas
+1. React Native
+2. NASA API
+3. React Navigation
+
 Este proyecto fue realizado con la guia del curso: [Curso completo de React Native + Hooks (con CERTIFICACIÓN)](https://www.youtube.com/watch?v=Dl8x8EWXq8s&t=6204s)
